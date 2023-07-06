@@ -1,9 +1,6 @@
 # Water_Cycle_TechXR
 Unity UI/UX Developer Assignment From TechXR
 
-<h1>Youtube Video</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/giK_l_uGG-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <h1>Home Menu</h1>
 <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/79250950/250390818-117dc3a1-8d8a-47cb-9407-74268cf73d8c.png">
 
